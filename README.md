@@ -10,3 +10,6 @@ El segundo desafío se prueba el modelo de bot realizado para el curso, utilizan
 
 ## [Desafío 3: Embedding aplicado a un cancionero](https://github.com/cg-massobrio/CEIA-lenguaje_natural/tree/main/desafio_3)
  Desafío que pone a prueba la generación de embedding empleando la librería Gensim. Se empleó el cancionero de Eminem, que presenta la particularidad de giros idiomáticos propios del género del rap. Como modelo de estructura de embedding se empleó Skip-Gram.
+
+ ## [Desafío 4: RNN a un cancionero](https://github.com/cg-massobrio/CEIA-lenguaje_natural/tree/main/desafio_3)
+ Desafío que pone a prueba arquitecturas básicas de redes neuronales recurrentes (RNN). AL igual que el desafío anterior, se continuará con el cancionero de Eminem. Se probaron diferentes configuraciones de red y se varió el valor de epochs. En todos los casos se incurre en un problema de overfitting. No se ha podido mejorar la performance respecto al modelo base propuesto en un comienzo. En el trabajo se encuentra el detalle de los resultados y conclusiones
